@@ -27,4 +27,9 @@
         <cost>$10</cost>
     </fooditem>
 
+    <fooditem type="pakistani">
+        <name>Broast</name>
+        <cost>$7</cost>
+    </fooditem>
+
 </foodlist>
