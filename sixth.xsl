@@ -4,7 +4,7 @@
     <xsl:template match="/bank">
     <html>
         <head>
-            <title>Bank Record</title>
+            <title>TASK</title>
             <style>
                 body{
                     background-color: black;
@@ -13,7 +13,7 @@
                 }
                 h1{
                     text-align : center;
-                    background-color :cyan;
+                    background-color :blue;
                     padding : 20px;
                     letter-spacing: 10px;
                     font-size: 30px;
@@ -22,26 +22,36 @@
 
                 }
                 table{
-                       margin-left: 450px;
+                       margin-left: 350px;
                        box-shadow : 3px 3px 5px 5px teal; 
                 }
             </style>
         </head>
         <body>
-            <h1>Bank Emloyee Table</h1>
-
-            <table border="2" cellspacing="20px" cellpadding="15px">
+            <h1>EMPLOYEE TABLE</h1>
+             
+            <table border="2" cellspacing="15px" cellpadding="20px">
                 <tr>
-                    <th bgcolor="grey">Id</th>
-                    <th bgcolor="grey">Name</th>
-                    <th bgcolor="grey">Salary</th>
+                    <marquee behavior="slow" direction="">XSL WORK✔</marquee>
                 </tr>
+            
+                <tr>
+                    <th>ID</th>
+                    <th>NAME</th>
+                    <th>SALARY</th>
+                    <th>JOINING DATE</th>
+                    <th>POSITION</th>
+                </tr>
+
                 <xsl:for-each select="employee">
-                    <tr>
-                        <td><xsl:value-of select="id"></xsl:value-of></td>
-                        <td><xsl:value-of select="name"></xsl:value-of></td>
-                        <td><xsl:value-of select="salary"></xsl:value-of></td>
-                    </tr>
+                <tr>
+                    <td><xsl:value-of select="id"></xsl:value-of></td>
+                    <td><xsl:value-of select="name"></xsl:value-of></td>
+                    <td><xsl:value-of select="salary"></xsl:value-of></td>
+                    <td><xsl:value-of select="date"></xsl:value-of></td>
+                    <td><xsl:value-of select="position"></xsl:value-of></td>
+
+                </tr>
                 </xsl:for-each>
             </table>
         </body>

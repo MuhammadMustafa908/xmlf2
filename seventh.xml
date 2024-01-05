@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="seventh.xsl" type="text/xsl"?>
+
+<data>
+    <collection>
+        <title>Empire Burlesque</title>
+        <artist>Bob Dylan</artist>
+    </collection>
+
+    <collection>
+        <title>Hide Your Heart</title>
+        <artist>Bonnie Tyler</artist>
+    </collection>
+
+    <collection>
+        <title>Greatest Hits</title>
+        <artist>Dolly Parton</artist>
+    </collection>
+
+    <collection>
+        <title>Still got the blues</title>
+        <artist>Gary Moore</artist>
+    </collection>
+
+    <collection>
+        <title>Eros</title>
+        <artist>Eros Ramazzotti</artist>
+    </collection>
+
+    <collection>
+        <title>One night only</title>
+        <artist>Bee Gees</artist>
+    </collection>
+
+    <collection>
+        <title>Maggie May</title>
+        <artist>Rod Stewart</artist>
+    </collection>
+
+    <collection>
+        <title>Romanza</title>
+        <artist>Andrea Boceli</artist>
+    </collection>
+
+    <collection>
+        <title>When a man loves a woman</title>
+        <artist>Percy Sledge</artist>
+    </collection>
+
+    <collection>
+        <title>Black Angel</title>
+        <artist>Savage Rose</artist>
+    </collection>
+
+    <collection>
+        <title>For the good times</title>
+        <artist>Kenny Rogers</artist>
+    </collection>
+
+    <collection>
+        <title>Big willie style</title>
+        <artist>Will Smith</artist>
+    </collection>
+</data>

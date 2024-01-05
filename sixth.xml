@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="sixth.xsl" type="text/xsl"?>
+
+<bank>
+    <employee>
+        <id>10234</id>
+        <name>SALMAN</name>
+        <salary>50000</salary>
+        <date>2-2-2015</date>
+        <position>MANAGER</position>
+    </employee>
+
+    <employee>
+        <id>10235</id>
+        <name>IBRAHIM</name>
+        <salary>200000</salary>
+        <date>3-5-1990</date>
+        <position>CEO</position>
+    </employee>
+
+    <employee>
+        <id>10236</id>
+        <name>ASIM</name>
+        <salary>50000</salary>
+        <date>4-4-2017</date>
+        <position>MANAGER</position>
+    </employee>
+
+    <employee>
+        <id>10237</id>
+        <name>GHAZANFAR</name>
+        <salary>50000</salary>
+        <date>8-10-2015</date>
+        <position>MANAGER</position>
+    </employee>
+
+    <employee>
+        <id>10238</id>
+        <name>SAIMA</name>
+        <salary>100000</salary>
+        <date>4-5-2000</date>
+        <position>MD</position>
+    </employee>
+</bank>
