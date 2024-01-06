@@ -22,8 +22,8 @@
 
                 }
                 table{
-                       margin-left: 350px;
-                       box-shadow : 3px 3px 5px 5px teal; 
+                       margin-left: 310px;
+                       box-shadow : 3px 3px 5px 5px green; 
                 }
             </style>
         </head>

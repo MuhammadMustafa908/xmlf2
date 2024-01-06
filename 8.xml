@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="8.xsl" type="text/xsl"?>
+
+<company>
+    <employee>
+        <id>002324</id>
+        <name>AHMED</name>
+        <salary>50000</salary>
+        <date>2-2-2010</date>
+        <position>MD</position>
+    </employee>
+
+    <employee>
+        <id>002325</id>
+        <name>ALI</name>
+        <salary>60000</salary>
+        <date>2-8-2012</date>
+        <position>MANAGER</position>
+    </employee>
+
+    <employee>
+        <id>002326</id>
+        <name>ABBAS</name>
+        <salary>80000</salary>
+        <date>8-5-2011</date>
+        <position>EMPLOYEE</position>
+    </employee>
+
+    <employee>
+        <id>002327</id>
+        <name>RAZA</name>
+        <salary>200000</salary>
+        <date>2-6-2014</date>
+        <position>CEO</position>
+    </employee>
+</company>
